@@ -57,7 +57,7 @@ var htmltemplate  = `<html>
 <body>
     <div class="container">
     <div>
-        <a href="/"> <font color="white">Home</font></a>
+        <a href="/"> <font color="black">Home</font></a>
     </div>
     <hr/>
     <h3>
